@@ -1,7 +1,11 @@
+# Budgets and Profits in Filmmaking
+
+This is an ongoing project meant to use data for a large number of films (budget, domestic box-office gross, worldwide box-office gross, etc.) to build a linear model reflecting patterns in the performance of different films. Underneath is a description of the original project guidelines from Metis. The primary twist was not to look only at the gross of a film, but the net profit earned for a studio once accounting for the budget of a film.
+
+Current Status: I am currently brainstorming an approach that would require more manual data-entry since there is currently no reliable data to acquire: categorizing films as completely original, sequels, reboots, based on existing source material, etc., and then creating linear models based on this categorization, ideally trying to find what best determines the success of a completely original film.
+
 ## Project Luther
 ###### Week 2 & Week 3
-
-![](Luther.jpg)
 
 
 #### Back story:
